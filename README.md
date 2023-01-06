@@ -9,9 +9,9 @@ Detalle del acuerdo de paz
 {
 	"peaceAgreement":
 	{
-		"id":1,
-		"number":"SuppliersInvited",
-		"pilar":2
+		"id":27,
+		"number":7,
+		"pilar":"TG.1. Capítulo de Género "
 	}
 }
 ```
