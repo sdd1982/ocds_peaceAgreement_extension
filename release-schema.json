@@ -1,0 +1,25 @@
+{
+  "definitions": {
+    "tender": {
+      "properties": {
+        "peaceAgreement": {
+          "pilar": {
+            "title": "name",
+            "description": "Nombre del pilar del acuerdo de paz",
+            "type": "string"
+          },
+          "number": {
+            "title": "number",
+            "description": "Número del pilar del acuerdo de paz",
+            "type": "integer"
+          },
+          "id": {
+            "title": "id",
+            "description": "Identificador del pilar del acuerdo de paz",
+            "type": "integer"
+          }
+        }
+      }
+    }
+  }
+}

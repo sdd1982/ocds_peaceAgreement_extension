@@ -1,0 +1,17 @@
+{
+  "name": {
+    "en": "peaceAgreement"
+  },
+  "description": {
+    "es": "Detalle del acuerdo de paz"
+  },
+  "documentationUrl": {
+    "es": "https://github.com/sdd1982/peaceAgreement/blob/master/README.md"
+  },
+  "schemas": [
+    "release-schema.json"
+  ],
+  "compatibility": [
+    "1.1"
+  ]
+}
