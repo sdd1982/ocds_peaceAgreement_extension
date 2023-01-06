@@ -7,11 +7,14 @@ Detalle del acuerdo de paz
 ## Example
 ```javascript
 {
-	"peaceAgreement":
+	"tender":
 	{
-		"id":27,
-		"number":7,
-		"pilar":"TG.1. Capítulo de Género "
+		"peaceAgreement":
+		{
+			"id":27,
+			"number":7,
+			"pilar":"TG.1. Capítulo de Género "
+		}
 	}
 }
 ```
