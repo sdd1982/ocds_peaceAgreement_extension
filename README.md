@@ -1,11 +1,11 @@
-# Process Statistics
+# Peace Agreement extension
 
 ## Descripción
-Detalle del acuerdo de paz
+Agregar el objeto peaceAgreement a Tender para indicar si el proceso de contratación está asociado al acuerdo de paz y bajo qué pilar específico.
 
 
 ## Example
-```javascript
+``` json
 {
 	"tender":
 	{
@@ -13,7 +13,7 @@ Detalle del acuerdo de paz
 		{
 			"id":27,
 			"number":7,
-			"pilar":"TG.1. Capítulo de Género "
+			"pillar":"TG.1. Capítulo de Género "
 		}
 	}
 }

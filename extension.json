@@ -1,9 +1,9 @@
 {
   "name": {
-    "en": "peaceAgreement"
+    "en": "Tender Peace Agreement Extension"
   },
   "description": {
-    "es": "Detalle del acuerdo de paz"
+    "es": "Indica a qué pilar del acuerdo de paz está asociado el proceso de contratación"
   },
   "documentationUrl": {
     "es": "https://github.com/sdd1982/peaceAgreement/blob/master/README.md"

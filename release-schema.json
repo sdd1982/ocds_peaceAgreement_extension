@@ -1,20 +1,20 @@
 {
   "definitions": {
-    "tender": {
+    "Tender": {
       "properties": {
         "peaceAgreement": {
-          "pilar": {
-            "title": "name",
+          "pillar": {
+            "title": "Pillar",
             "description": "Nombre del pilar del acuerdo de paz",
             "type": "string"
           },
           "number": {
-            "title": "number",
+            "title": "Number",
             "description": "Número del pilar del acuerdo de paz",
             "type": "integer"
           },
           "id": {
-            "title": "id",
+            "title": "Identifier",
             "description": "Identificador del pilar del acuerdo de paz",
             "type": "integer"
           }
